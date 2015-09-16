@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 三曼陀跋陀羅菩薩經
+#+DATE: 2015-08-30 20:10:05.928105
+#+PROPERTY: JUAN 0
